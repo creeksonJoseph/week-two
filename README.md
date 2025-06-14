@@ -35,6 +35,7 @@ A simple interactive web app that lets you manage a guest list for an event. Add
 Open index.html in your browser.
 
 Start managing your guest list!
+2.You can interact with it at the deployed page at: https://creeksonjoseph.github.io/week-two/
 
 # File Structure
 
