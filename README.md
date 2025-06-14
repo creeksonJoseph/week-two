@@ -1,4 +1,4 @@
-\***\* Event Guest List Manager\*\***
+\*\* Event Guest List Manager\*\*
 
 A simple interactive web app that lets you manage a guest list for an event. Add guests, mark them as attending or not, edit their names, and remove them — all with a clean UI and zero page reloads.
 
